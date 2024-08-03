@@ -16,18 +16,29 @@ Welcome to the documentation of "Micro-SaaS Data Collection", project focused on
 
 ## Tools
 
+### Languages and Frameworks
+
 - [TypeScript](https://www.typescriptlang.org/)
 - [React.js 18](https://react.dev/)
 - [Next.js 14](https://nextjs.org/)
+
+### Styles and Animations
+
 - [TailwindCSS](https://tailwindcss.com/)
 - [Shadcn](https://shadcn.com/)
 - [Sonner](https://sonner.emilkowal.ski/)
 - [Lenis, Framer Motion](https://www.framer.com/motion/)
+
+### Utilities and Libraries
+
 - [ESLint](https://eslint.org/)
 - [React Hook Form](https://react-hook-form.com/)
 - [Zod](https://zod.dev/)
 - [Zustand](https://zustand-demo.pmnd.rs/)
 - [Authjs](https://authjs.dev/)
+
+### Integrations and APIs
+
 - [Vercel SDK AI](https://sdk.vercel.ai/)
 - [Supabase](https://supabase.io/)
 - [Resend](https://resend.com/)
@@ -36,6 +47,9 @@ Welcome to the documentation of "Micro-SaaS Data Collection", project focused on
 - [Posthog Analytics](https://posthog.com/)
 - [Cloudflare Domain & Rate Limit](https://www.cloudflare.com/products/registrar/)
 - [Upstash](https://upstash.com/)
+
+### Infrastructure and DevOps
+
 - [Hostinger VPS](https://www.hostinger.com.ar/vps-argentina)
 - [Coolify](https://coolify.io/)
 - [Docker](https://www.docker.com/)
